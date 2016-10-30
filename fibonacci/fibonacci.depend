@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1468160109 source:f:\abao\work\github\dsa-in-cpp-test\fibonacci\main.cpp
+	<time.h>
+	<iostream>
+	"Fib.h"
+
+1468159885 f:\abao\work\github\dsa-in-cpp-test\fibonacci\fib.h
+
+1468160018 source:f:\abao\work\github\dsa-in-cpp-test\fibonacci\fib1.cpp
+
+1468160030 source:f:\abao\work\github\dsa-in-cpp-test\fibonacci\fib2.cpp
+
+1468160039 source:f:\abao\work\github\dsa-in-cpp-test\fibonacci\fib0.cpp
+
